@@ -7,6 +7,8 @@ Pcb:
 
 ![Photo 3](https://github.com/RSZ-Nld/Gpsdo/blob/main/Pcb-GPSDO-2.jpg)
 
+Display
+![Photo 4](https://github.com/RSZ-Nld/Gpsdo/blob/main/Display.jpg)
 
 Front Pcb:
 ![Photo 3](https://github.com/RSZ-Nld/Gpsdo/blob/main/Front.JPG )
