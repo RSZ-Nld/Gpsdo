@@ -2,7 +2,7 @@ Made a smd Pcb for the GPSdo, orginal from Yannick Turcotte ;
 
 https://github.com/YannickTurcotte/GPSDO-YT
 
-Pcb:
+Pcb Smd:
 
 ![Photo 2]( https://github.com/RSZ-Nld/Gpsdo/blob/main/Pcb-GPSDO.jpg)
 
