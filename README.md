@@ -8,7 +8,8 @@ Back Pcb:
 ![Photo 6]( https://github.com/RSZ-Nld/Gpsdo/blob/main/Back.JPG)
 
 Diagram 
-![Photo 12](https://github.com/RSZ-Nld/Gpsdo/blob/main/Yannick-schema-1.pdf)
+![Photo 12]()
+
 
 
 
