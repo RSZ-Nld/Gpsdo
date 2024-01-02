@@ -1,4 +1,5 @@
-Made a smd Pcb for the GPSdo, orginal from Yannick Turcotte ; https://github.com/YannickTurcotte/GPSDO-YT
+Made a smd Pcb for the GPSdo, orginal from Yannick Turcotte ; 
+https://github.com/YannickTurcotte/GPSDO-YT
 
 Pcb:
 
@@ -18,7 +19,7 @@ Back Pcb:
 Diagram 
 ![Photo 12](https://github.com/RSZ-Nld/Gpsdo/blob/main/Yannick-schema.jpg)
 
-Program for 328p 
+Program for 328p , hex file from Yannick Turcotte
 
 https://github.com/RSZ-Nld/Gpsdo/blob/main/Gpsdoyt_1_58.zip
 
