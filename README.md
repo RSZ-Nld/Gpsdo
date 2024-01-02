@@ -10,6 +10,10 @@ Back Pcb:
 Diagram 
 ![Photo 12](https://github.com/RSZ-Nld/Gpsdo/blob/main/Yannick-schema.jpg)
 
+Program for 328p 
+
+https://github.com/RSZ-Nld/Gpsdo/blob/main/Gpsdoyt_1_58.zip
+
 
 
 
