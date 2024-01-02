@@ -2,6 +2,11 @@ Made a smd Pcb for the GPSdo
 
 Org from 
 ![Photo 2]( https://github.com/RSZ-Nld/Gpsdo/blob/main/Pcb-GPSDO.jpg)
+
+
+![Photo 3](https://github.com/RSZ-Nld/Gpsdo/blob/main/Pcb-GPSDO-2.jpg)
+
+
 Front Pcb:
 ![Photo 3](https://github.com/RSZ-Nld/Gpsdo/blob/main/Front.JPG )
 Back Pcb: 
