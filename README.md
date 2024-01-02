@@ -8,7 +8,7 @@ Back Pcb:
 ![Photo 6]( https://github.com/RSZ-Nld/Gpsdo/blob/main/Back.JPG)
 
 Diagram 
-![Photo 12](https://github.com/RSZ-Nld/VFO-1.8-Inch-Retro-scale/blob/main/Diagram%20Retro%20Scale.JPG)
+![Photo 12](https://github.com/RSZ-Nld/Gpsdo/blob/main/Yannick-schema-1.pdf)
 
 
 
