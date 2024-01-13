@@ -7,7 +7,7 @@ Pcb Smd:
 ![Photo 2]( https://github.com/RSZ-Nld/Gpsdo/blob/main/GSPDO-2024%20V1.1.jpg)
 
 
-![Photo 3](https://github.com/RSZ-Nld/Gpsdo/blob/main/Pcb-GPSDO-2.jpg)
+![Photo 3](https://github.com/RSZ-Nld/Gpsdo/blob/main/GSPDO-2024%20V1.1--2.jpg)
 
 Display
 ![Photo 4](https://github.com/RSZ-Nld/Gpsdo/blob/main/Display.jpg)
