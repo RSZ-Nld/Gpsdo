@@ -4,7 +4,7 @@ https://github.com/YannickTurcotte/GPSDO-YT
 
 Pcb Smd:
 
-![Photo 2]( https://github.com/RSZ-Nld/Gpsdo/blob/main/Pcb-GPSDO.jpg)
+![Photo 2]( https://github.com/RSZ-Nld/Gpsdo/blob/main/GSPDO-2024%20V1.1.jpg)
 
 
 ![Photo 3](https://github.com/RSZ-Nld/Gpsdo/blob/main/Pcb-GPSDO-2.jpg)
